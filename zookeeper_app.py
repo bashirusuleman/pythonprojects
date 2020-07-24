@@ -132,8 +132,8 @@ try:
             print(animals[int(next_habitat)])
         else:
             break
-            print("See you!")
+    print("See you!")
 except:
-    print("Enter the valid number 0-5")
+    print("Enter the valid number, 0-5")
 
 
